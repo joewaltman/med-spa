@@ -1,0 +1,11 @@
+{
+  "name": "medspa-industry-insider",
+  "version": "1.0.0",
+  "description": "Industry publication website for medical aesthetics professionals",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": ["medspa", "medical-aesthetics", "industry-publication"],
+  "author": "MedSpa Industry Insider",
+  "license": "UNLICENSED"
+}
